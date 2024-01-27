@@ -1,7 +1,7 @@
 ---
 longform:
   format: scenes
-  title: aaet
+  title: note001
   workflow: Default Workflow
   sceneFolder: /
   scenes:
