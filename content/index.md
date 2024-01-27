@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
 
-[[Introduction]]
-
+[[Introduction | 노트북 001]]
