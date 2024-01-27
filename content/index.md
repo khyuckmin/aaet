@@ -2,4 +2,4 @@
 title: Home
 ---
 
-[[Introduction | 노트북 001]]
+[[content/note001/Index | 노트북 001]]
