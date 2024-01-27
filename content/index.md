@@ -2,4 +2,4 @@
 title: Home
 ---
 
-[[content/note001/Index | 노트북 001]]
+[[introduction | 나의 미도리 노트 001]]

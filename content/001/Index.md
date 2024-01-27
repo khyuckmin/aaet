@@ -1,11 +1,11 @@
 ---
 longform:
   format: scenes
-  title: note001
+  title: "001"
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Introduction
+    - introduction
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
