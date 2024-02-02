@@ -2,4 +2,4 @@
 title: Home
 ---
 
-[[introduction | 나의 미도리 노트 001]]
+[노트북 001](https://khyuckmin.github.io/aaet/001/)
