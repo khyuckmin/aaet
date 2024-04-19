@@ -1,7 +1,7 @@
 ---
 title: "<% tp.file.title %>"
 draft: false
-author: [{{author}}]
+author: [[{{author}}]]
 publisher: {{publisher}}
 publish: {{publishDate}}
 total: {{totalPage}}
@@ -16,7 +16,7 @@ tags:
 ![cover|100]({{coverUrl}})
 
 ## 서지 정보
-- author: [{{author}}]
+- author: [[{{author}}]]
 - publisher: {{publisher}}
 - publish: {{publishDate}}
 - isbn: {{isbn10}} {{isbn13}}
