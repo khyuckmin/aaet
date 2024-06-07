@@ -1,3 +1,10 @@
+---
+title: "Youtube - 송길영의 미래교실 에그문화센터"
+draft: false
+tags:
+  - 
+---
+
 [[ReadItLater]] [[Youtube]]
 
 # [시보야의 미래를 위해 귀한분 모셨습니다. 송길영의 미래교실 | 🏢에그문화센터](https://www.youtube.com/watch?v=IyHp-B3xYzI)
