@@ -1,5 +1,5 @@
 ---
-title: "Youtube - 송길영의 미래교실 에그문화센터"
+title: "Youtube_송길영의 미래교실 에그문화센터"
 draft: false
 tags:
   - 
