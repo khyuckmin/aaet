@@ -3,6 +3,7 @@ title: Home
 ---
 
 * [노트북 001](https://khyuckmin.github.io/aaet/001/)
+* [Highlights](https://khyuckmin.github.io/aaet/Highlights/)
 * [Readitlater](https://khyuckmin.github.io/aaet/ReadItLater/)
 * [References](https://khyuckmin.github.io/aaet/References/)
 
